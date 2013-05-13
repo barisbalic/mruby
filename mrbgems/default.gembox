@@ -39,7 +39,7 @@ MRuby::GemBox.new do |conf|
   conf.gem :core => "mruby-symbol-ext"
 
   # Use Random class
-  conf.gem :core => "mruby-random"
+  # conf.gem :core => "mruby-random"
 
   # Generate mirb command
   conf.gem :core => "mruby-bin-mirb"
